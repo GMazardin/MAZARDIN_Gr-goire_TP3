@@ -1,0 +1,15 @@
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\obj\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.csproj.AssemblyReference.cache
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\obj\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\obj\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.AssemblyInfoInputs.cache
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\obj\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.AssemblyInfo.cs
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\obj\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.csproj.CoreCompileInputs.cache
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\bin\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.exe
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\bin\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.deps.json
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\bin\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.runtimeconfig.json
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\bin\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.dll
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\bin\Debug\net6.0\ref\MAZARDIN_Grégoire_TP3_ST2TRD.dll
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\bin\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.pdb
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\obj\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.dll
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\obj\Debug\net6.0\ref\MAZARDIN_Grégoire_TP3_ST2TRD.dll
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\obj\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.pdb
+C:\Users\gmaza\RiderProjects\MAZARDIN_Grégoire_TP3_ST2TRD\MAZARDIN_Grégoire_TP3_ST2TRD\obj\Debug\net6.0\MAZARDIN_Grégoire_TP3_ST2TRD.genruntimeconfig.cache

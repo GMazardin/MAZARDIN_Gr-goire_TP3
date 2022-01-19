@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MAZARDIN_Grégoire_TP3_ST2TRD/1.0.0": {
+        "runtime": {
+          "MAZARDIN_Grégoire_TP3_ST2TRD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MAZARDIN_Grégoire_TP3_ST2TRD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
